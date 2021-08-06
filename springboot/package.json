@@ -1,0 +1,11 @@
+{
+  "name": "oe",
+  "version": "1.0.0",
+  "description": "毕业设计",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "liulang",
+  "license": "ISC"
+}
